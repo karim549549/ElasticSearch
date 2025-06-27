@@ -5,13 +5,13 @@ A reusable, animated search dialog for React/Next.js projects. Includes recent s
 ## Installation
 
 ```bash
-npm install  nameofthepackage
+npm install  search-dialog-component
 ```
 
 ## Usage
 
 ```tsx
-import { SearchDialog } from 'nameofthepackage';
+import { SearchDialog } from 'search-dialog-component';
 
 const searchFn = async (query: string) => {
   // Your async search logic here
