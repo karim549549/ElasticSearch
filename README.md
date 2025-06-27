@@ -5,7 +5,7 @@ A reusable, animated search dialog for React/Next.js projects. Includes recent s
 ## Installation
 
 ```bash
-npm install nameofthepackage
+npm install  nameofthepackage
 ```
 
 ## Usage
